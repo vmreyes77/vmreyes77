@@ -18,7 +18,7 @@
   
 👋 Hi there! I'm Víctor Manuel Reyes, a passionate QA Engineer with a strong background in international logistics and quality management.
 
-In my recent training at a tech Bootcamp, I've developed skills in designing and executing test cases for websites, mobile applications, and databases. I use tools like Python, Jira, Android Studio, Postman, and Selenium to ensure that each project meets the highest quality standards.
+In my recent training at a tech Bootcamp, I've developed skills in designing and executing test cases for websites, mobile applications, and databases. I use tools like Python, Jira, Android Studio, Postman, SQL, PostgreSQL and Selenium to ensure that each project meets the highest quality standards.
 
 🔍 I love exploring new technologies and finding efficient solutions to complex problems. Here you'll find some of the projects I've worked on, reflecting my dedication to excellence and continuous improvement.
 
