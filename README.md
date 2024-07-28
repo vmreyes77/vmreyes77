@@ -2,7 +2,7 @@
   <img decoding="async" src="https://github.com/vmreyes77/vmreyes77/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" width="800"/>
 </div>
 
-<h1 align="center">[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADctor-manuel-reyes-vargas/)</h1>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADctor-manuel-reyes-vargas/)
 
 <h1>
   Hi i'm Víctor Reyes
