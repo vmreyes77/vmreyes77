@@ -7,11 +7,6 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADctor-manuel-reyes-vargas/)
 </div>
 
-<h1>
-  Hi i'm Víctor Reyes
-  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vmreyes77&label=Profile%20views&color=0e75b6&style=flat" alt="vmreyes77" /> </p>
 
 ---
