@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADctor-manuel-reyes-vargas/)
 </div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vmreyes77&label=Profile%20views&color=0e75b6&style=flat" alt="vmreyes77" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vmreyes77&label=Profile%20views&color=0e75b6&style=flat" alt="vmreyes77" /> </p>
 
 ---
  <div id="header" align="left">
